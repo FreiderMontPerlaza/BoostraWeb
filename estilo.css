@@ -14,3 +14,10 @@
 .letter-g{
     font-size: 54px;
 }
+
+/*-----estilo carrousel------*/
+.carousel-item img{
+    max-width: 100%;
+    min-height:300px;
+    background-size: cover;
+}
